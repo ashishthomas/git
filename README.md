@@ -4,7 +4,7 @@
 
 <p> This is a test project for git. </p>
 
-<strong> This is the application test for the git project. It is for which try the projeccts to manage git commands of the code in readme.md file. </strong>
+<strong> This is the application test for the git project. It is for which try the projects to manage git commands of the code in readme.md file. </strong>
 
 ![image of a proejct](/git-logo-image.png)
 
